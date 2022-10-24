@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RNqgD9dJyRjQPhQ9x7XZTPiJcyKhnmU9TyfKv/gvYJWkyO+g9jF2JsXqdjDZvdFLgPZeGCjKb3perBRLWbaSGA==",
+  "dgSpecHash": "gd73kXXm7LIGQiS/COhzyXaClaIeARljtoWjG+Yp8kJ+6Ecd7sHX3cK0EBzCYidkQMdCoSFuIt49fUi5p7CMZQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Wessel\\Documents\\UiPath\\Connected Office Web Application User Acceptance Testing\\.local\\",
   "expectedPackageFiles": [
@@ -97,6 +97,7 @@
     "C:\\Users\\Wessel\\.nuget\\packages\\njsonschema\\10.2.2\\njsonschema.10.2.2.nupkg.sha512",
     "C:\\Users\\Wessel\\.nuget\\packages\\nlog\\4.5.11\\nlog.4.5.11.nupkg.sha512",
     "C:\\Users\\Wessel\\.nuget\\packages\\npoi\\2.5.5\\npoi.2.5.5.nupkg.sha512",
+    "C:\\Users\\Wessel\\.nuget\\packages\\officeopenxml.core.excelpackage\\1.0.0\\officeopenxml.core.excelpackage.1.0.0.nupkg.sha512",
     "C:\\Users\\Wessel\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
     "C:\\Users\\Wessel\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
     "C:\\Users\\Wessel\\.nuget\\packages\\runtime.any.system.collections\\4.3.0\\runtime.any.system.collections.4.3.0.nupkg.sha512",
@@ -266,6 +267,8 @@
     "C:\\Users\\Wessel\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
     "C:\\Users\\Wessel\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Wessel\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Wessel\\.nuget\\packages\\system.xml.xpath\\4.0.1\\system.xml.xpath.4.0.1.nupkg.sha512",
+    "C:\\Users\\Wessel\\.nuget\\packages\\system.xml.xpath.xdocument\\4.0.1\\system.xml.xpath.xdocument.4.0.1.nupkg.sha512",
     "C:\\Users\\Wessel\\.nuget\\packages\\uipath\\22.10.46.47635\\uipath.22.10.46.47635.nupkg.sha512",
     "C:\\Users\\Wessel\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\uipath.activities.runtimegovernance.1.1.6.nupkg.sha512",
     "C:\\Users\\Wessel\\.nuget\\packages\\uipath.connectionclient\\1.4.1\\uipath.connectionclient.1.4.1.nupkg.sha512",

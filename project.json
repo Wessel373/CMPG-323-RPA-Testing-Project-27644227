@@ -3,6 +3,7 @@
   "description": "CMPG323 Project 4 RPA User Acceptance testing ",
   "main": "Main.xaml",
   "dependencies": {
+    "OfficeOpenXml.Core.ExcelPackage": "[1.0.0]",
     "UiPath.Excel.Activities": "[2.16.0]",
     "UiPath.Mail.Activities": "[1.18.0]",
     "UiPath.System.Activities": "[22.10.1]",
