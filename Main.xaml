@@ -154,7 +154,7 @@
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <av:Point x:Key="ShapeLocation">30,379.5</av:Point>
                         <av:Size x:Key="ShapeSize">200,61</av:Size>
-                        <av:PointCollection x:Key="ConnectorLocation">130,440.5 130,479.5</av:PointCollection>
+                        <av:PointCollection x:Key="ConnectorLocation">130,440.5 130,469.5</av:PointCollection>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
                     <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="AddZoneData.xaml - Invoke Workflow File" sap:VirtualizedContainerService.HintSize="200,61" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_4" UnSafe="False" WorkflowFileName="AddZoneData.xaml">
@@ -171,7 +171,7 @@
                       <FlowStep x:Name="__ReferenceID3">
                         <sap:WorkflowViewStateService.ViewState>
                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                            <av:Point x:Key="ShapeLocation">30,479.5</av:Point>
+                            <av:Point x:Key="ShapeLocation">30,469.5</av:Point>
                             <av:Size x:Key="ShapeSize">200,61</av:Size>
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
