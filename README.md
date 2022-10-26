@@ -2,7 +2,7 @@
 Uipath Solution
 ## User Report User-Guide
 
-Run The main process flow and then trak the different processes live as the automation 
+Run The main process flow and then track the different processes live as the automation 
 executes
 If a process remains FALSE it means the process has failed, this pin point the failing process that 
 has executed last
