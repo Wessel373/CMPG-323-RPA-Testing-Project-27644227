@@ -4,6 +4,7 @@ Uipath Solution
 
 Run The main process flow and then track the different processes live as the automation 
 executes. 
-If a process remains FALSE it means the process has failed, this pin point the failing process that 
+View the excel file report tab to see test results. 
+If a process remains FALSE it means the test has failed, this pin point the failing process that 
 has executed last. 
-If the column shows true the process has executed successfully.
+If the column shows true the test has executed successfully.
